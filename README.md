@@ -15,8 +15,6 @@ NOTESAPP/
 │   ├── models.py
 │   └── routers.py
 │
-├── env/
-│
 ├── static/
 │   └── js/
 │       └── styles.css
@@ -54,7 +52,7 @@ NOTESAPP/
 
 ### Prerequisites
 
-- Python 3.7 or higher
+- Python 3.10 or higher
 - MongoDB
 - Virtual environment (optional but recommended)
 
@@ -92,7 +90,7 @@ To start the FastAPI application:
 uvicorn app.main:app --reload
 ```
 
-The application will be available at `http://127.0.0.1:8000/`.
+The application will be available at [http://localhost:8000/](http://localhost:8000/).
 
 ### Usage
 
@@ -107,3 +105,4 @@ The application will be available at `http://127.0.0.1:8000/`.
 - `POST /notes/`: Add a new note.
 - `DELETE /notes/{note_id}`: Delete a note by ID.
 - `PUT /notes/{note_id}`: Update a note by ID.
+

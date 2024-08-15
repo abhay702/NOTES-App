@@ -106,3 +106,7 @@ The application will be available at [http://localhost:8000/](http://localhost:8
 - `DELETE /notes/{note_id}`: Delete a note by ID.
 - `PUT /notes/{note_id}`: Update a note by ID.
 
+  ## Screenshots
+
+![image](https://github.com/user-attachments/assets/6ee1cd3d-fc07-4e0a-8e2d-3c439fc6ffd0)
+

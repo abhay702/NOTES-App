@@ -1,6 +1,6 @@
 
 
-# Notes App
+# NotesMaker pro
 
 This is a simple Notes application built with FastAPI and MongoDB. The application allows users to add, delete, update, and view notes. The frontend is rendered using Jinja2 templates, and the backend handles API requests for managing notes.
 
